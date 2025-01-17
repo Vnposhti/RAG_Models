@@ -1,0 +1,6 @@
+ipykernel
+python-dotenv
+PyPDF2 
+faiss-cpu 
+google-generativeai
+streamlit

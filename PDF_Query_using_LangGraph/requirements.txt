@@ -1,0 +1,9 @@
+ipykernel
+python-dotenv
+PyPDF2 
+langgraph
+langchain
+langchain-community
+langchain-google-genai
+faiss-cpu 
+streamlit
