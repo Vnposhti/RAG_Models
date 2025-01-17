@@ -6,6 +6,9 @@ This Streamlit application uses LangChain, LangGraph, and Google Generative AI t
 - **Text Summarization:** Uses Google Generative AI to summarize the extracted text, focusing on key features and organizing content by headings and sub-headings.
 - **LangGraph Workflow:** The app defines a workflow for PDF processing and summarization using LangGraph, which orchestrates the flow between different nodes in the process.
 
+### Live Demo
+You can access the live Streamlit application at the following link: [PDF Summarization with LangGraph and Google Generative AI](https://ragmodels-langgraph-pdf-summarization.streamlit.app/)
+
 ### Graph Integration:
 
 ![alt text](graph-1.png)

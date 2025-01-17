@@ -6,6 +6,9 @@ This Streamlit app utilizes LangChain, Google Generative AI, and LangGraph to al
 - Indexes the embeddings using FAISS (a popular vector database).
 - Uses a retrieval-based model (RAG) to answer questions based on the PDF content.
 
+### Live Demo
+You can access the live Streamlit application at the following link: [PDF Query Using LangGraph and Google Generative AI](https://ragmodels-langgraph-pdfquery.streamlit.app/)
+
 ### Graph Integration:
 
 ![alt text](graph-1.png)

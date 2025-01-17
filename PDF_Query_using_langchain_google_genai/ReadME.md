@@ -10,6 +10,9 @@ This repository demonstrates a PDF-based Retrieval-Augmented Generation (RAG) sy
 - Generates answers to user queries with Google GenAI's gemini-2.0-flash-exp model.
 - Provides a simple and interactive user interface built with Streamlit.
 
+### Live Demo
+You can access the live Streamlit application at the following link: [PDF Query System using LangChain and Google Generative AI](https://ragmodels-langchain-goooglegenai-pdfquery.streamlit.app/)
+
 ### 💡 Usage
 **Upload a PDF:**
 Use the file uploader to upload a PDF document containing the information you want to process.

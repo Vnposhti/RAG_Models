@@ -1,4 +1,4 @@
-# PDF to FAISS Query System using Google AI Studio
+# PDF to FAISS Query System using Google Generative AI
 This project showcases a PDF-based Retrieval-Augmented Generation (RAG) system. It extracts text from uploaded PDF documents, embeds the text using Google AI Studio's embedding models, indexes the embeddings in a FAISS vector database, and answers user queries based on the indexed content. The app is implemented with Streamlit for an interactive user interface.
 
 ### 🚀 Features
@@ -8,6 +8,9 @@ This project showcases a PDF-based Retrieval-Augmented Generation (RAG) system. 
 - Stores embeddings in a FAISS vector database for efficient similarity search.
 - Retrieves relevant content and generates answers using Google AI's Gemini-2.0-flash-exp generative model.
 - Provides a user-friendly interface via Streamlit.
+
+### Live Demo
+You can access the live Streamlit application at the following link: [PDF Query using Google Generative AI](https://ragmodels-goooglegenerativeai-pdf-query.streamlit.app/)
 
 ### 💡 Usage
 **Upload a PDF:**
