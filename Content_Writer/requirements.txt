@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+langchain-core
+langchain-community
+faiss-cpu
+langchain-groq
+langgraph
+langgraph-cli[inmem]
+streamlit
