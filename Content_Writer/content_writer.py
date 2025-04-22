@@ -222,7 +222,7 @@ def main():
     
     # Sidebar content
     with st.sidebar:
-        workflow_image_path = Path("D:\Vishal\Blog_generator\output.png")
+        workflow_image_path = Path("output.png")
         st.image(str(workflow_image_path), 
                 caption="Content Generation Workflow",
                 width=240)
