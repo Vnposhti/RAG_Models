@@ -1,9 +1,7 @@
-langchain
-python-dotenv
 langchain-core
-langchain-community
-faiss-cpu
-langchain-groq
+langchain-google-genai
 langgraph
-langgraph-cli[inmem]
 streamlit
+python-dotenv
+pydantic
+typing-extensions
