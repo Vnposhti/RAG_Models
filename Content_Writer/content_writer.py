@@ -220,9 +220,10 @@ def main():
    # Main content area
     topic = st.text_input("Enter your main topic:")
     
+    script_dir = Path(__file__).parent
+    workflow_image_path = script_dir/"output.png"
     # Sidebar content
     with st.sidebar:
-        workflow_image_path = Path("output.png")
         st.image(str(workflow_image_path), 
                 caption="Content Generation Workflow",
                 width=240)
